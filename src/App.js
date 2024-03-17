@@ -1,10 +1,13 @@
 import './App.css';
-
-function App() {
+import React,{Component} from "react"
+class App extends Component {
+  render(){
   return (
     <div className="App">
+      <PlayerConfig/>
     </div>
   );
+  }
 }
 
 export default App;
