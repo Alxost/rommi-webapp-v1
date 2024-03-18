@@ -7,3 +7,4 @@ class PlayerConfig extends Component {
         )
     }
 }
+export default PlayerConfig
